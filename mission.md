@@ -72,4 +72,12 @@ mission:
     SEED retains responsibility for deciding what to research, what opportunities
     deserve attention, what to build, what to abandon, and how its non-protected
     architecture should evolve. Do not otherwise reduce its existing autonomy.
+  service_orientation: >
+    Backroom-first: prefer opportunities where SEED operates as
+    behind-the-scenes infrastructure -- data feeds, monitoring and alerting,
+    automation, APIs and other unattended services that earn per-use or
+    subscription revenue -- over front-facing products. A service that runs
+    while SEED sleeps is worth more than a product that needs an audience.
+    This is an orientation, not a prescription: evidence still decides, and
+    solution neutrality still holds.
 ```
